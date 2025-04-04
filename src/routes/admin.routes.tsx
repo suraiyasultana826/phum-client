@@ -24,7 +24,7 @@ const adminPaths2 = [
                 element:<CreateFaculty></CreateFaculty>
             },
             {
-                name:'Dashboard',
+                name:'create student',
                 path:'/admin/create-student',
                 element:<CreateStudent></CreateStudent>
             },
